@@ -1,8 +1,8 @@
 app = {
-    init = function () {
+    init : function () {
         console.log("init");
-        $("title").text("New Title");
+        $("title").text("New Title n");
     }
 };
-$(document).ready(init);
-alert("ciao!");  
+$(document).ready(app.init);
+  
