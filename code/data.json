@@ -1,0 +1,17 @@
+{
+    "battery": [
+         {
+            "timestamp": "19:30:30",
+            "level": 45
+        },
+        {
+            "timestamp": "19:40:40",
+            "level": 30
+        }, 
+        {
+            "timestamp": "20:50:10",
+            "level": 10
+        }
+       
+    ]
+}
